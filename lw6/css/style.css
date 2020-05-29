@@ -1,0 +1,185 @@
+body
+
+.main_block
+{
+  width: 1001px;
+  position: absolute;
+  background: white;
+  left: 460px;
+  top: 100px;
+}
+
+.block_image
+{
+  position: relative;
+  width: 350px;
+  padding-left: 20px;
+  margin-bottom: 50px;
+  float: left;
+}
+
+.image1
+{
+  width: 330px; 
+  height: 350px; 
+}
+
+.excerpt
+{
+  margin-left: 410px;
+  width: 570px;
+  padding-top: 43px;
+  padding-bottom: 100px;
+  margin-bottom: 50px;
+}
+
+.quote
+{
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-left: 60px;
+  margin-right: 0px;
+  font-size: 28px;
+  line-height: 42px;
+  color: #848484;
+  font-family: "Georgia";
+  font-style: italic;
+}
+
+.autor
+{
+  margin-bottom: 0px;
+  margin-top: 0px;
+  margin-left: 60px;
+  margin-right: 0px;
+  font-size: 16px;
+  line-height: 42px;
+  color: #333;
+  font-family: "Open Sans";
+  font-weight: 600;
+}
+
+.text
+{
+  margin-left: 60px;
+  right: 22px;
+  width: 570px;
+  float: right; 
+}
+
+.heading1
+{
+  margin-top: 0px;
+  margin-bottom: 24px;
+  font-size: 48px;
+  line-height: 42px;
+  color: #333;
+  font-family: "Open Sans";
+  font-weight: 700;
+}
+
+.line
+{
+  width: 60px;
+  height: 6px;
+  border-radius: 3px;
+  background-color: #45c3aa;
+  margin: 0px;
+}
+
+.text1
+{
+  margin-bottom: 50px;
+  font-size: 19px;
+  line-height: 32px;
+  color: #555;
+  font-family: "Georgia";
+}
+
+.heading2
+{
+  margin: 0px;
+  font-size: 36px;
+  line-height: 42px;
+  color: #333;
+  font-family: "Open Sans";
+  font-weight: 400;
+}
+
+.address
+{
+  font-size: 19px;
+  line-height: 32px;
+  color: #098d72;
+  font-family: "Georgia";
+  text-decoration: underline; 
+}
+
+.lists
+{
+  position: relative;
+  width: 350px;
+  padding-left: 20px;
+  margin: 0px;
+}
+
+.heading3
+{
+  margin-bottom: 0px;
+  font-size: 24px;
+  line-height: 32px;
+  color: #15a98c;
+  font-family: "Open Sans";
+  font-weight: 600;
+}
+
+.list
+{
+  font-size: 19px;
+  line-height: 36px;
+  color: #555;
+  font-family: "Georgia";
+}
+
+.form{
+  background: #f4f4f4;
+  border-radius: 10px;
+  padding: 30px 30px;
+  margin: 0 0 150px;
+}
+
+.form .field{
+  border-radius: 5px;
+  width: 50%;
+  height: 20px;
+}
+
+.form .form_text_required{
+  border-bottom: solid 5px #74b988;
+}
+
+.form_text{
+  font-size: 19px;
+  line-height: 32px;
+  color: #555;
+  font-family: "Georgia";
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.submit{
+  background: #098d72;
+  border-radius: 10px;
+  color: white;
+  width: 40%;
+  height: 50px;
+  font-size: 20px;
+  font-family: "Georgia";
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+.form .message{
+  border-radius: 5px;
+  width: 98%;
+}
